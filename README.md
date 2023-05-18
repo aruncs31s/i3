@@ -1,10 +1,24 @@
 ***This Repo contains my i3 config files***
 
+### requirements
+``` 
+scrot
+feh
+i3-wm
+i3bar
+nm-applet(for ease)
 
-## **Key bindings**
-mod = window key or mod4 
+```
 
-`mod+Return` - to open terminal
+
+
+### Modified Key Bindings
+
+`$mod+x` - Kill focused
+`$mod+Shift+x` - Powermenu
+
+`mod+Return` - to open terminal (urxvt)
+`$mod+Shift+Return` - to open xfce4-terminal
 `mod+x` - to kill  window
 
 ### **focus**
@@ -26,5 +40,9 @@ mod = window key or mod4
 `mod+b`       - kill status bar
 `mod+Shift+b` - show status bar
 
+### layout change
 
+`$mod+s` - stacking
+`$mod+Shift+s` - Split
+`$mod+t` - tabbed
 ## Credits 
