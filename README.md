@@ -1,5 +1,9 @@
 ***This Repo contains my i3 config files***
 
+-   [Endeavour OS](#endeavour-os)
+-   [ArchCraft](#archcraft)
+
+## Endeavour OS
 ### requirements
 ``` 
 scrot
@@ -23,7 +27,7 @@ nm-applet(for ease)
 
 ### **focus**
 
-`mod+j` - focus left
+`mod+j` - focus leftto
 `mod+k` - focus down
 `mod+i` - focus up
 `mod+l` - focus right
@@ -46,3 +50,17 @@ nm-applet(for ease)
 `$mod+Shift+s` - Split
 `$mod+t` - tabbed
 ## Credits 
+
+
+
+
+
+
+## ArchCraft
+
+
+### Screenshots 
+
+![Screenshots](./screenshots/Screenshot_2023-07-26-13-26-07_1366x768.png?raw=true)
+
+
