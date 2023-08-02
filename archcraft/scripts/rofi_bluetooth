@@ -17,8 +17,9 @@
 #   Arch repositories: rofi, bluez-utils (contains bluetoothctl)
 
 # Import Current Theme
-DIR="$HOME/.config/i3"
-RASI="$DIR/theme/rofi/bluetooth.rasi"
+DIR="$HOME/.config/bspwm"
+STYLE="hack"
+RASI="$DIR/themes/$STYLE/rofi/bluetooth.rasi"
 
 # Constants
 divider="---------"

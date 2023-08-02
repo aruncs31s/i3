@@ -49,7 +49,6 @@ nm-applet(for ease)
 `$mod+s` - stacking
 `$mod+Shift+s` - Split
 `$mod+t` - tabbed
-## Credits 
 
 
 
@@ -64,3 +63,8 @@ nm-applet(for ease)
 ![Screenshots](./screenshots/Screenshot_2023-07-26-13-26-07_1366x768.png?raw=true)
 
 
+
+## Credits
+
+[Endeavour OS](https://github.com/endeavouros-team/endeavouros-i3wm-setup)
+[Archcraft](https://archcraft.io/)

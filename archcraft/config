@@ -125,6 +125,9 @@ for_window [all] title_window_icon off
 ## Syntax: hide_edge_borders none|vertical|horizontal|both|smart|smart_no_gaps
 hide_edge_borders none
 
+
+for_window [class="^.*"] border pixel .1
+
 #------
 
 ## Smart borders
